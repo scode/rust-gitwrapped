@@ -2,3 +2,6 @@
 name = "gitwrapped"
 version = "0.1.0"
 authors = ["Peter Schuller <peter.schuller@infidyne.com>"]
+
+[dependencies]
+tempdir = "0.3" # https://github.com/rust-lang/tempdir
